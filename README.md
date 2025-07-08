@@ -49,6 +49,7 @@ class Foo
     }
 }
 ```
+test commit
 
 You can then pick one of the implementations of the interface to get a logger.
 
