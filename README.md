@@ -49,7 +49,7 @@ class Foo
     }
 }
 ```
-test commit 5
+test commit 6
 
 You can then pick one of the implementations of the interface to get a logger.
 
